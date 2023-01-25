@@ -1,0 +1,19 @@
+[{"category" : "캠핑장", "country" :  "필리핀", "address" : ["Calaca", "Calabarzon", "필리핀"], "title" : "Vintage Airstream Suite on Top of a Hill", "host" : "Camper And Cabin", "description" : "Camper and Cabin은 필리핀 최초의 Airstream 숙박 시설임을 자랑스럽게 생각합니다. 사려 깊은 디자인과 자연 환경이 완벽하게 어우러져 고급 호텔의 편안함을 즐기면서 캠핑의 정신을 즐길 수 있습니다. 25피트 크기의 Airstream은 보호 시크한 분위기를 자아냅니다. ", "duration" : "2월1일~6일", "cost" : "281,964", "img" :  "20221103091349_1667434429086_8v1DpqEfe5.jpg", "max" : 2, "bedroom" : 1, "bed" : 1, "bathroom" : 1, "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"], "score" : 4.94, "review" : { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" } },
+{
+"category" : "캠핑장",
+"country" :  "필리핀",
+"address" : ["City of Naga", "중부 비사야", "필리핀"],
+"title" : "ESCAPE TO A PRIVATE GLAMPSITE IN THE MOUNTAINS",
+"host" : "Kerwin",
+"description" : "산속에 있는 나만의 글램핑장으로 탈출하세요. ",
+"duration" : "2월4일~10일",
+"cost" : "139,854",
+"img" :  "20221103091349_1667434429086_8v1DpqEfe5.jpg",
+"max" : 4,
+"bedroom" : 3,
+"bed" : 6,
+"bathroom" : 2,
+"facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
+"score" : 4.96,
+"review" : { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }
+}]
