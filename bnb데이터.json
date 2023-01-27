@@ -15,7 +15,7 @@
     "bathroom" : 1, 
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"], 
     "score" : 4.94, 
-    "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }]
+    "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }]
   },
   {
     "category" : "캠핑장",
