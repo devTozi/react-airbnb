@@ -16,7 +16,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"], 
     "score" : 4.94, 
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 1
   },
   {
     "category" : "캠핑장",
@@ -35,7 +36,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 4.96,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 2
   },
   {
     "category" : "캠핑장",
@@ -54,7 +56,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 0,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 3
   },
   {
     "category" : "최고의 전망",
@@ -73,7 +76,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 5.0,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 4
   },
   {
     "category" : "최고의 전망",
@@ -92,7 +96,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 4.85,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 5
   },
   {
     "category" : "최고의 전망",
@@ -111,7 +116,8 @@
     "facility" : ["주방", "건물 내 무료 주차"],
     "score" : 4.85,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 6
   },
   {
     "category" : "인기 급상승",
@@ -130,7 +136,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 4.94,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 7
   },
   {
     "category" : "인기 급상승",
@@ -149,7 +156,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 4.94,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 8
   },
   {
     "category" : "인기 급상승",
@@ -168,7 +176,8 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 4.88,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 9
   },
   {
     "category" : "한옥",
@@ -187,6 +196,7 @@
     "facility" : ["주방", "업무 전용 공간", "건물 내 무료 주차", "TV", "에어컨", "전용 파티오 또는 발코니"],
     "score" : 5.0,
     "review" : [{ "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }, { "no" : 1, "id" : "aaa123", "date" : "2023-01-25", "comment" : "good" }],
-    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647}
+    "location" : {"latitude" : 37.49956248607954, "longitude" : 127.03042658473647},
+    "hostingNumber" : 10
   }
   ]
